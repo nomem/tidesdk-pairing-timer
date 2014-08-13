@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<ti:app xmlns:ti='http://ti.appcelerator.org'>
+<id>de.fritzsche.pairingtimer</id>
+<name>Pairing-Timer</name>
+<version>0.0.1</version>
+<publisher>Stefan Fritzsche</publisher>
+<url>http://www.stefan-fritzsche.de</url>
+<icon>default_app_logo.png</icon>
+<copyright>2014 by Stefan Fritzsche</copyright>
+<!-- Window Definition - these values can be edited -->
+<window>
+<id>initial</id>
+<title>Pairing-Timer</title>
+<url>app://index.html</url>
+<width>550</width>
+<height>360</height>
+<fullscreen>false</fullscreen>
+<resizable>false</resizable>
+<chrome scrollbars="false">true</chrome>
+<maximizable>false</maximizable>
+<minimizable>false</minimizable>
+<closeable>true</closeable>
+</window>
+</ti:app>

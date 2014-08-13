@@ -1,6 +1,6 @@
-﻿# Pairing-Timer Application
+﻿# TideSDK Pairing-Timer Application
 
-Simple pairing-timer with notification
+Simple cross platform pairing-timer application with notification.
 
 Credits:
 - Application Icon - Aha-Soft (http://www.aha-soft.com/)

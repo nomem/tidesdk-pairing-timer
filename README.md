@@ -1,4 +1,4 @@
-﻿# TideSDK Pairing-Timer Application
+﻿# TideSDK Pair Programming Timer Application
 
 Simple cross platform pairing-timer application with notification.
 

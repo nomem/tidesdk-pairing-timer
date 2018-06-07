@@ -2,7 +2,7 @@
 
 Simple cross platform pairing-timer application with notification.
 
-Credits:
+Credits
 - Application Icon - Aha-Soft (http://www.aha-soft.com/)
 - Twitter Bootstrap (http://getbootstrap.com/)
 - JQuery (http://jquery.com/)
